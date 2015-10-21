@@ -1,0 +1,24 @@
+{
+  "name": "array-utils",
+  "version": "1.0.0",
+  "description": "Arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardoledo/node-array-prototype-utils"
+  },
+  "keywords": [
+    "Array",
+    "prototype",
+    "utils"
+  ],
+  "author": "Eduardo Ledo <eduardo.ledo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardoledo/node-array-prototype-utils/issues"
+  },
+  "homepage": "https://github.com/eduardoledo/node-array-prototype-utils"
+}
